@@ -25,3 +25,5 @@ Publish this to the store, share on fb / product hunt (but this isnt a product??
 ? Light theme? For daytime playability and aesthetics hhhhhhhh
 
 ? Refactor code? This would require me to learn more about Swift LOL not a bad deal
+
+?! Play with friends? the ability to shoot games to friends, similar to the apple fitness app...i guess id need a server, or can i do p2p messaging and have code that interprets each invite as-it-comes?
