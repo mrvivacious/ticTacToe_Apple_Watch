@@ -10,7 +10,7 @@ Feel free to suggest improvements to the code design and whatnot
 Enjoy
 
 
-### todo
+### Todo
 
 Add a demo (video / gif) to the readme
 
